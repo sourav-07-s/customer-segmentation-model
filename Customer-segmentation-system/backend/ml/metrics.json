@@ -1,0 +1,19 @@
+{
+    "customers": 10872,
+    "best_k": 3,
+    "silhouette_score": 0.3135972905751801,
+    "davies_bouldin_index": 1.08348782872731,
+    "segment_classifier_accuracy": 0.9935632183908046,
+    "segment_classifier_cv_accuracy": 0.9955847687931563,
+    "segment_classifier_macro_f1": 0.9931782748120276,
+    "algorithm_comparison_silhouette": {
+        "KMeans": 0.3133226740968375,
+        "GaussianMixture": 0.29497466813925366,
+        "Agglomerative": 0.31710120509931494
+    },
+    "segment_sizes": {
+        "Champions": 2716,
+        "Potential Loyalists": 5374,
+        "At Risk Customers": 2782
+    }
+}
